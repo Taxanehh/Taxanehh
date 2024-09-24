@@ -3,8 +3,10 @@
 <h3 align="center">A Full-Time Cybersecurity Student and developer in training</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taxanehh&label=Profile%20views&color=0e75b6&style=flat" alt="taxanehh" /> </p>
-
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=taxanehh&label=Profile%20views&color=0e75b6&style=flat" alt="taxanehh" /> </p>
+<div/>
+  
 <div>
   <h5> 🔭 I’m currently working on [Secret Manager](https://github.com/Taxanehh/Secretmanager) <h5/>
 </div>
