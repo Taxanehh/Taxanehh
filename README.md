@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taxanehh&label=Profile%20views&color=0e75b6&style=flat" alt="taxanehh" /> </p>
 
-- 🔭 I’m currently working on [Secret Manager](https://github.com/Taxanehh/Secretmanager)
-
-- 🌱 I’m currently learning **NodeJS, React & TailwindCSS**
-
-- 👨‍💻 All of my projects are available at [To Be Made]
-
-- 📫 How to reach me **paul.stokreef@gmail.com**
+<div>
+  <h5> 🔭 I’m currently working on [Secret Manager](https://github.com/Taxanehh/Secretmanager) <h5/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
