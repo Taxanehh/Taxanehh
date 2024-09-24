@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Paul S.</h1>
 <h3 align="center">A Full-Time Cybersecurity Student and developer in training</h3>
 <br/>
