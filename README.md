@@ -9,15 +9,6 @@
   <h5> 🔭 I’m currently working on [Secret Manager](https://github.com/Taxanehh/Secretmanager) <h5/>
 </div>
 
-<div>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/paul.stokreef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul.stokreef" height="30"        width="40" /></a>
-  <a href="https://instagram.com/paul.stokreef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paul.stokreef" height="30" width="40"   /></a>
-  <a href="https://discord.gg/paulus2692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="paulus2692" height="30" width="40" /></a>
-  </p>
-</div>
-
 <h3>Languages</h3>
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=3c3cf0">
