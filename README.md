@@ -8,7 +8,7 @@
 <div/>
   
 <div>
-  <h5> 🔭 I’m currently working on [Secret Manager](https://github.com/Taxanehh/Secretmanager) <h5/>
+  <h5> 🔭 I’m currently working on a Security Dashboard <h5/>
 </div>
 
 <h3>Languages</h3>
